@@ -23,7 +23,7 @@
     "react-redux": "~7.1.3",
     "redux": "^2.0.0 || ^3.0.0 || ^4.0.0-0",
     "styled-components": "~4.4.1",
-    "yup": "~0.28.0"
+    "yup": "~0.32.9"
   },
   "alias": {
     "#root": "./src"
